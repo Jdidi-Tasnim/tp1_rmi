@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.yrrhelp.grpc.userGrpc"/>
+    <fullyQualifiedTypeName name="io.grpc.ServerBuilder"/>
+    <fullyQualifiedTypeName name="user.UserService"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
